@@ -16,7 +16,6 @@ body {
     display: flex;
     padding: 20px 36px;
     margin: 0% 44%;
-    /* background: #DADADA; */
 }
 
 .navbar--title {
@@ -127,13 +126,11 @@ body {
 
 .card--pin {
     position: absolute;
-    width: 7px;
+    width: 9px;
     height: 9.55px;
-    left: calc(50% - 7px/2 - 87.5px);
-    top: calc(50% - 9.55px/2 - 227.23px);
-    
-    background: #DADADA;
-}
+    left: 180px;
+    top: 118px;
+    }
 
 .card--location {
     position: absolute;
